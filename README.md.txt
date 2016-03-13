@@ -1,0 +1,1 @@
+A simple php secured site that works with a MySQL database
